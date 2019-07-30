@@ -1,0 +1,18 @@
+
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    
+    int i,j,sum;
+    cout<<"enter numbers\n";
+    cin>> i >> j;
+    sum= i + j;
+    cout<<"sum is\n" << i << "+" << j << "=" << sum;
+}
+
+
+  
